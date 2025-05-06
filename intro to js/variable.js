@@ -1,2 +1,3 @@
-let name = 'Apurva'
+debugger
+var name = 'Apurva'
 let age = 20
