@@ -11,3 +11,6 @@
     
     const temp = `hello I added the two lines ${message} ${intro}`
     console.log(temp);
+    
+    const temp1 = `hello I added the two lines ` + message.concat(' ', intro)
+    console.log(temp1);
