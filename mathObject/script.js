@@ -1,4 +1,6 @@
 let x = 13/2
-console.log(x);
+// console.log(x);
 let y = 13%2
-console.log(y);
+// console.log(y);
+
+console.log(Math.floor(13.8)) 
