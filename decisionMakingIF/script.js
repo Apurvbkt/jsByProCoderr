@@ -13,4 +13,3 @@ let age =  45;
         console.log("working porfessional");
         
     }else console.log("not a working professional");
-    
