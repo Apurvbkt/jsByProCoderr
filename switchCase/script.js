@@ -25,11 +25,11 @@
                             
                             
                             
-const dayNumber = 5
+const dayNumber = 9
 
 switch (dayNumber) {
     
-    case 0: console.log('it is sunday today');
+    case 0  : console.log('it is sunday today');
     break;
     
     case 1: console.log('it is a monday');
@@ -50,8 +50,7 @@ switch (dayNumber) {
     case 6: console.log('it is a saturday');
     break;
     
-    default:
-        console.log('please enter a valid number');
+    default: console.log('please enter a valid number');
         
     
 }
