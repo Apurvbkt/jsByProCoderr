@@ -55,3 +55,5 @@ switch (dayNumber) {
     
 }
 console.log('program ended');
+
+let name =  'akash'
