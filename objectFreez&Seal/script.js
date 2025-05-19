@@ -5,3 +5,4 @@ const person = {
 }
 
 // Object.freeze(person)
+Object.seal(person)
