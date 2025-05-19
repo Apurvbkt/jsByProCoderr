@@ -4,3 +4,4 @@ const person = {
     age: 23
 }
 
+// Object.freeze(person)
