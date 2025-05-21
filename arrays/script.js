@@ -10,3 +10,10 @@ let multi = [['apurv', 23, ['class', 6], ['class', 7] ],
             
                 
             ['akash', 24, ['class', 8], ['class', 9]]]
+
+            
+let xonull =[
+    ['X', null ,null],
+    [null, null, 'O'],
+    ['O', null, 'X']
+] 
