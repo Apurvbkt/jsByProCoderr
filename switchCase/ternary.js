@@ -19,7 +19,7 @@ console.log(ans);
 
 let gender  = 'f'
 
-let res = `${(gender.toLocaleUpperCase() == 'F') || (gender.toLocaleUpperCase() == 'M') ? 'She' : 'He'  } is a collage student  `
+let x = `${(gender.toLocaleUpperCase() == 'F') || (gender.toLocaleUpperCase() == 'M') ? 'She' : 'He'  } is a collage student  `
 
 console.log(res);
 
