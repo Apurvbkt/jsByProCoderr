@@ -14,4 +14,11 @@ while(i < dost.length){
     console.log(dost[i]);
     i++
 
+    
 }
+
+
+let hasLoan = true;
+console.log(hasLoan);
+
+push 1
