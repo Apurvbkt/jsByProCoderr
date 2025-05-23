@@ -21,4 +21,4 @@ while(i < dost.length){
 let hasLoan = true;
 console.log(hasLoan);
 
-push 1
+
