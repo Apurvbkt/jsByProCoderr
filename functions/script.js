@@ -12,5 +12,5 @@ function idCard(x){
 
 let apu = 'apurv'
 
-idCard(apu)
+idCard('apurv')
 
