@@ -5,12 +5,13 @@ function data(){
 
 // data()
 
-function idCard(x){
+function idCard(x, y){
     console.log('hii', x);
+    console.log(`i am a ${y}`);
     
 }
 
 let apu = 'apurv'
 
-idCard('apurv')
+idCard('apurv', 'web ')
 
