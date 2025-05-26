@@ -9,7 +9,7 @@ function idCard(x, y){
     console.log('hii', x);
     console.log(`i am a ${y}`);
     
-    aaj mera tbyt kharb hai   
+    // aaj mera tbyt kharb hai  to esliye kuch pdhai ni ho paya 
 }
 
 let apu = 'apurv'
