@@ -17,5 +17,7 @@ let apu = 'apurv'
 let job = 'web developer'
 let age =  24
 
-idCard('apurv', job, age)
+// idCard('apurv', job, age)
+
+
 
