@@ -22,8 +22,12 @@ let age =  24
 
 
 function addTwo(){
-    console.log(5 + 2);
-    
+    // console.log(5 + 2);
+    return(5 + 2)
 }
 
-addTwo()
+// console.log(addTwo());
+
+let ans = addTwo()
+console.log(ans);
+
