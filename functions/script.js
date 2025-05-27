@@ -29,5 +29,11 @@ function addTwo(){
 // console.log(addTwo());
 
 let ans = addTwo()
-console.log(ans);
+// console.log(ans);
 
+
+function subNumber(){
+    return a - b
+}
+
+ 
