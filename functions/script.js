@@ -32,8 +32,10 @@ let ans = addTwo()
 // console.log(ans);
 
 
-function subNumber(){
+function subNumber(a, b){
     return a - b
 }
 
+let ans2 = subNumber(5, 6)
+console.log(ans2);
  
