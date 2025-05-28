@@ -12,7 +12,7 @@ function idCard(x, y, z){
         
     // aaj mera tbyt kharb hai  to esliye kuch pdhai ni ho paya and sath me ek kaan se sunai ni dera, but hoping sb thik ho jaye mera kaan jldi se, baaki bye kal se padunga
     
-    // aaj bhi ni ho Paya, coz mamu ke riste ko leke bahut excited the and sb gya tha dekhne aaj, we are ok from our side, just we nee verification from their side, baaki sunday wo log ke aane ka pln hua hai , if everything goes well, to final smjo
+    // aaj bhi ni ho Paya, coz mamu ke riste ko leke bahut excited the and sb gya tha dekhne aaj, we are ok from our side, just we nee verification from their side, baaki sunday wo log ke aane ka pln hua hai , if everything goes well, to final smjo, baki bye good night kal se krunga continue.
 }
 
 let apu = 'apurv'
