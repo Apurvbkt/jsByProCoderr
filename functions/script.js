@@ -39,5 +39,24 @@ function subNumber(a, b){
 }
 
 let ans2 = subNumber(5, 6)
-console.log(ans2);
+// console.log(ans2);
  
+
+
+ name1 = "Rahul"
+
+function sayHi(){
+    let greet = "Hi"
+    console.log(greet + " " + name1 );
+    
+}
+sayHi()
+
+// let name = "Rahul";
+
+// function sayHi() {
+//   let greet = "Hello";
+//   console.log(greet + " " + name);
+// }
+
+// sayHi();
