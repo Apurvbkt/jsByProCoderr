@@ -49,6 +49,8 @@ function sayHi(){
     let greet = "Hi"
     console.log(greet + " " + name1 );
     
+    aaj ni hopaya
+    
 }
 sayHi()
 
