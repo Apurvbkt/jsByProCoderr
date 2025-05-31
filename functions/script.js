@@ -50,7 +50,7 @@ function sayHi(){
     console.log(greet + " " + name1 );
     
     aaj ni hopaya, bahut kam tha shuba se, or thoda bhaut excitment bhi tha, kla padhunga shuba se, bye good night
-    aaj bhi code ni hopaya
+    aaj bhi code ni hopaya, ghr ka kam kaj me din nikal gya
 }
 sayHi()
 
