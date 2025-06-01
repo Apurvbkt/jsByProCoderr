@@ -52,7 +52,7 @@ function sayHi(){
     aaj ni hopaya, bahut kam tha shuba se, or thoda bhaut excitment bhi tha, kla padhunga shuba se, bye good night
     aaj bhi code ni hopaya, ghr ka kam kaj me din nikal gya, ab pdhai hoga direct monday, kl hoga aar ya paar. hopeing for best baki god plans, bye good night
     
-    was a tired day, aaj bahut thak gye,  aaj wo log aaya dekha suna
+    was a tired day, aaj bahut thak gye,  aaj wo log aaya dekha suna, ab dekhte ahi kya bolta hai wo log
 }
 sayHi()
 
