@@ -54,7 +54,7 @@ function sayHi(){
     
     was a tired day, aaj bahut thak gye,  aaj wo log aaya dekha suna, ab dekhte ahi kya bolta hai wo log, kal se pdhai suru. bye good night
     
-    aaj ni hopaya, ldki dekhne gye the, and woha se aake sie dard suru. kal se mai try krunga phir se suru krne ka, and we all really want ki woha se possitive response aaye
+    aaj ni hopaya, ldki dekhne gye the, and woha se aake sie dard suru. kal se mai try krunga phir se suru krne ka, and we all really want ki woha se possitive response aaye, bye good night 
 }
 sayHi()
 
