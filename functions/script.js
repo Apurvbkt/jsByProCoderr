@@ -49,7 +49,7 @@ function sayHi(){
     let greet = "Hi"
     console.log(greet + " " + name1 );
     
-   kush smj ni aara hai, kya kru, kaise kru, pata ni kya hua, kya hora hai, I hope god muje rasta dikjaynge
+   kush smj ni aara hai, kya kru, kaise kru, pata ni kya hua, kya hora hai, I hope god muje rasta dikjaynge, bye good night
     
    
 }
