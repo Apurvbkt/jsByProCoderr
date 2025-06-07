@@ -7,7 +7,7 @@ let num = 1;
 //     num+= 1
 // }
 
-let dost = ['Adarsh', 'Akash', 'Tri', 'Mukti', 'Papay']
+    let dost = ['Adarsh', 'Akash', 'Tri', 'Mukti', 'Papay']
 let i = 0;
 while(i < dost.length){
     dost[i] = dost[i] + ' Singh';
