@@ -9,4 +9,4 @@ const person = {
 
 //ab comback monday hoga, kyuki smj ni aara kuch kal sunday baaki dekhte hai, bye gn
 
-// kal hai come back ka din
+// kal hai come back ka din, kal se padhai suru
