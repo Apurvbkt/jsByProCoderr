@@ -8,3 +8,5 @@ const person = {
 // Object.seal(person) ==> we can update the inner content of the of the object, but can add any thing form the ourtside .
 
 //ab comback monday hoga, kyuki smj ni aara kuch kal sunday baaki dekhte hai, bye gn
+
+// kal hai come back ka din
