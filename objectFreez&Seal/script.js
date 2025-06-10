@@ -7,4 +7,3 @@ const person = {
 // Object.freeze(person)   ===> we cant change anything inside the object, not even update anything inside the object
 // Object.seal(person) ==> we can update the inner content of the of the object, but can add any thing form the ourtside .
 
-//aaj bhi welle he  nikal gya. sala pta ni ghr he kharb hai ya hm he ni krre hai, bye good night
