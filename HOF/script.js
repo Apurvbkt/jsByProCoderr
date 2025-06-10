@@ -1,11 +1,14 @@
 function high(b){
     console.log(b);
-    
+    b()
 }
 
-high('hello')
 
 
 
 
-function
+function sayHi(){
+    console.log("hiii sir/ ma'am"    )
+}
+
+high(sayHi)
