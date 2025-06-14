@@ -15,4 +15,4 @@ function a(){
     
 }
 
-let funTimer = setTimeout(a, 5000)
+let funTimer = setTimeout(a, 5000) 
