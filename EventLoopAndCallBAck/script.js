@@ -23,8 +23,17 @@ let appu = {
     
     sqr : function(a){
         return a*a
+    },
+    
+    subtract(a, b){
+        return a - b
+    },
+    
+    cube(a){
+        
+        return a*a*a
     }
-
+    
 };
 
 
