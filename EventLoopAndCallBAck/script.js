@@ -13,8 +13,16 @@
 let appu = {
     E : 214636465454,
     
-    A : function(a, b){
+    add: function(a, b){
         return a+b  
+    },
+    
+    sub : function(a, b){
+      return a-b  
+    },
+    
+    sqr : function(a){
+        return a*a
     }
 
 };
