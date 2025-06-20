@@ -9,3 +9,16 @@
 
 
 // method and callback
+
+let appu = {
+    E : 214636465454,
+    
+    A : function(a, b){
+        return a+b  
+    }
+
+};
+
+
+
+ 
