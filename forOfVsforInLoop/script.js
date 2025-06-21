@@ -16,9 +16,24 @@ for(frts of frt){  // this syntex is acceptable (optional)
 }
 
 
-const name = 'Apurva bhakat'
+// const name = 'Apurva bhakat'
 
-for(const names of name){
-    console.log(names);
+// for(const names of name){
+//     console.log(names);
+    
+// }
+
+const info = {
+    name: 'apu',
+    last: 'bkt',
+    roll : 5,
+    class: 10,
     
 }
+
+for(let infos in info){
+    // console.log(infos + " :" + info[infos]);
+    
+}
+
+console.log(Object.keys(info));
