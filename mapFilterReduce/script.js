@@ -9,7 +9,10 @@ const months = [
     
 // })
 
-months.map((e, index )=>{
-    console.log(index + 1 ,e);
-    
-})
+const mnt =  months.map((e, index )=>{
+                // console.log(index + 1 ,e);  
+                // return e.toLowerCase()
+                // return e.toUpperCase()
+            })
+            
+console.log(mnt);
