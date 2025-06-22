@@ -9,7 +9,7 @@ const months = [
     
 // })
 
-months.map((e)=>{
-    console.log(e);
+months.map((e, index )=>{
+    console.log(index + 1 ,e);
     
 })
