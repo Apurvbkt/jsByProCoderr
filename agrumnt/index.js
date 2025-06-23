@@ -62,4 +62,24 @@
     console.log(arr)
      
 }
-add(1,2,3,4,5)
+// add(1,2,3,4,5)
+
+
+
+
+function add2(){
+
+    
+    // console.log(arguments)
+    const arr = Array.from(arguments)
+    
+    const ans = arr.reduce((a, c)=>{
+        return  a + c
+    },0)
+    
+    console.log(ans);
+    
+}
+
+
+// add2(1,2,3,4,5)
