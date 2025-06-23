@@ -16,11 +16,26 @@
 
 
 
-const add =  function(){
+// const add =  function(){
     
+//     let ans = 0
+//     for(i = 0; i< arguments.length; i++){
+//         ans += arguments[i]
+//     } 
+    
+    
+//     return ans
+    
+// }
+
+
+
+
+const add =  (...nums)=>{ // we can not use argument word in ES6 because it's old and have some vurnabilities. 
+        
     let ans = 0
-    for(i = 0; i< arguments.length; i++){
-        ans += arguments[i]
+    for(i = 0; i< nums.length; i++){
+        ans += nums[i]
     } 
     
     
