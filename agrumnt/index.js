@@ -83,3 +83,22 @@ function add2(){
 
 
 // add2(1,2,3,4,5)
+
+
+function multi(){
+    
+    const arr = Array.from(arguments)
+    console.log(arr);
+    
+    const mlt = arr.reduce((a, c)=>{
+        
+        return a * c
+        
+    },1)
+    
+    console.log(mlt);
+    
+}
+
+
+multi(1,2,3,4,5)
