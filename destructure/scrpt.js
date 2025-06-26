@@ -11,3 +11,7 @@ const user = {
         state: 'jhark'
     },
 }
+const {name, age} = user
+
+console.log(name);
+
