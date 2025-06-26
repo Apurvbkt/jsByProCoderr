@@ -11,7 +11,10 @@ const user = {
         state: 'jhark'
     },
 }
-const {name:username, age, address : add} = user
+// const {name:username, age} = user
 
-console.log(add.city, add.state);
+const { address : {city} } = user
+const { address : {state} } = user
+
+console.log(city, state);
 
