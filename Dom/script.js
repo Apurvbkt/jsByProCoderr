@@ -27,10 +27,10 @@ imgData = ['https://media.istockphoto.com/id/1317323736/photo/a-view-up-into-the
     
 // }
 
-img.forEach((e, i)=>{
-    console.log(e.src = imgData[i]);
+// img.forEach((e, i)=>{
+//     console.log(e.src = imgData[i]);
     
-})
+// })
 
 
 
