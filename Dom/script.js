@@ -34,3 +34,8 @@ imgData = ['https://media.istockphoto.com/id/1317323736/photo/a-view-up-into-the
 
 
 
+let a = document.querySelectorAll('a');
+console.log(a);
+
+
+
