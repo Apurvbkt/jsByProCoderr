@@ -39,14 +39,14 @@ console.log(anc);
 
 
 
-// for(i = 0; i< anc.length; i++){
+for(i = 0; i< anc.length; i++){
   
-//   console.log(anc[i].style.backgroundColor = 'teal');
+  console.log(anc[i].style.backgroundColor = 'teal');
   
 
-// }
+}
 
-// anc.forEach((e)=>{
-//   e.style.backgroundColor = 'teal'
-// })
+anc.forEach((e)=>{
+  e.style.backgroundColor = 'teal'
+})
 
