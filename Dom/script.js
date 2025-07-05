@@ -34,8 +34,16 @@ imgData = ['https://media.istockphoto.com/id/1317323736/photo/a-view-up-into-the
 
 
 
-let a = document.querySelectorAll('a');
-console.log(a);
+let anc = document.querySelectorAll('a');
+console.log(anc);
 
+// for(i = 0; i< anc.length; i++){
+  
+//   console.log(anc[i].style.backgroundColor = 'teal');
+  
+// }
 
+anc.forEach((e)=>{
+  e.style.backgroundColor = 'teal'
+})
 
